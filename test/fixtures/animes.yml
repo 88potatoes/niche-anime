@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mal_id: 1
+  title_eng: MyString
+  title_jap: MyString
+  episodes: 1
+  year: 1
+  image: MyString
+  trailer: MyString
+
+two:
+  mal_id: 1
+  title_eng: MyString
+  title_jap: MyString
+  episodes: 1
+  year: 1
+  image: MyString
+  trailer: MyString
